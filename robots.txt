@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://corjs.com/sitemap.xml
-License: https://max.ru/c/-71795122614978/AZ2ABaz4eEY
+License: https://share.google/xdW2xo0peZxJ1gAEo
